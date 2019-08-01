@@ -1,0 +1,4 @@
+ports:
+- port: 3000
+tasks:
+- command: python3 -m http.server 3000
